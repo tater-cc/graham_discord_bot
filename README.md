@@ -9,30 +9,30 @@ The features of this bot include on-chain tipping, rains, favorites, wide-variet
 
 ## Why do I want this?
 
-Because Graham is awesome, with it you can:
+Because Tater is an awesome fork of Graham, with it you can:
 - Allow users to tip each other for quality content, etc.
 - Increase engagement in your discord server via features such as rains and giveaways
 - Help educate people on cryptocurrencies and the value they provide
 
 ## Where can I see it in action?
 
-Head to the [BANANO Discord](https://chat.banano.cc) - you can see both the NANO and BANANO bots in action just by typing `?help` and `.help`
+Head to my [Server Experiment Discord](https://discord.gg/cTg7yPpyYG) - you can see both the HUAHUA bot in action just by typing `.help`
 
 ## How do I add it to my server?
 
-Graham is currently not public, but it will be soon! In the meantime you can follow the instructions below to setup your own.
+Tater is currently not public, but it will be soon! In the meantime you can follow the instructions below to setup your own.
 
-# Setting up your own Graham
+# Setting up your own Tater
 
 ## Requirements
 
-Graham 4.0+ requires the following:
+Tater 4.0+ requires the following:
 
 - A unix environment (MacOS or Linux or WSL)
 - Python 3.7+
 - PostgreSQL or SQLite3
 - A Redis Server/Database
-- A NANO or BANANO node - [setting up a node](https://docs.nano.org/running-a-node/node-setup/). You will want to enable RPC and enable_control once your node is up and running. [node configuration](https://docs.nano.org/running-a-node/configuration/)
+- A HUAHUA Node with RPC enabled
 
 It sounds like a lot, but it's actually quite simple.
 
